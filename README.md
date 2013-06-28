@@ -2,7 +2,7 @@
 
 ## 使い方
 
-https://github.com/kiyoya/gentoo-sakura-vps のとおりです。
+https://github.com/aliceinwire/gentoo-sakura-vps.git のとおりです。
 
 #### tag "kernel-3.5.7"が最新です。
 
